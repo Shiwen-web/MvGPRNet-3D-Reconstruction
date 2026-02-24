@@ -46,7 +46,7 @@ For the initial 3D range migration (FK migration) step, you will need:
 
 Due to file size limits, the sample datasets and pre-trained model weights are hosted externally. Please download them from the links below and place them in the corresponding directories.
 
-* **Google Drive**: `[Insert Link Here]`
+* **Google Drive**: `[ ]`
 
 Expected directory structure after downloading:
 
