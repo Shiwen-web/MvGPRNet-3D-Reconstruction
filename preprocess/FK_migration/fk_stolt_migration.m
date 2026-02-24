@@ -14,7 +14,7 @@ function migration_volume = fk_stolt_migration(radargram_volume, params)
 %       .nx_grid, .ny_grid, .nz_grid
 %
 %   Output:
-%     migration_volume  - [ny x nx x nz], normalized, thresholded at 0.35
+%     migration_volume  - [ny x nx x nz], normalized
 
 medium_velocity = params.medium_velocity;
 dt = params.dt;
